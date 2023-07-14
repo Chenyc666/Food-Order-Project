@@ -3,7 +3,7 @@
 Pratical food order system base on java. Using object oriented programming 
 
 
-# Customer 
+# Customer.java 
 
 This class a basic data structure to represent a customer with their ID and name, and provides methods to manipulate and retrieve customer information. Such as represent a customer object and store information about the customer, such as their name and ID
 

@@ -15,3 +15,6 @@ getter and setter methods allow other parts of the code to get and set the value
 * Utilized Java collections (LinkedList, Queue, and ArrayList) to manage customer orders and menu items efficiently.
 * Implemented logging functionality with the Java Logger class to record system events and order details.
 * Ensured data integrity and security by authorizing staff operations with a pre-defined access code.
+
+# Menu.java
+This project showcases the creation and manipulation of a linked list that represents a menu. The linked list stores various menu items, each with an associated ID, name, and price.

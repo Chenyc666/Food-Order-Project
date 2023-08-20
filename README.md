@@ -18,3 +18,6 @@ getter and setter methods allow other parts of the code to get and set the value
 
 # Menu.java
 This class showcases the creation and manipulation of a linked list that represents a menu. The linked list stores various menu items, each with an associated ID, name, and price.
+
+
+# Main.java

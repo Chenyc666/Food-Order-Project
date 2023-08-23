@@ -20,7 +20,7 @@ getter and setter methods allow other parts of the code to get and set the value
 This class showcases the creation and manipulation of a linked list that represents a menu. The linked list stores various menu items, each with an associated ID, name, and price.
 
 # CustomerOrder
-
+It has a constructor that takes in the customer's name, their ordered items, and the total cost, and initializes the member variables.
 
 # Main.java
 

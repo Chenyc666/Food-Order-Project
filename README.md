@@ -22,4 +22,4 @@ This class showcases the creation and manipulation of a linked list that represe
 
 # Main.java
 
-This is a main class that simulate 
+This is a main class that simulate a people who are ordering food from a machine

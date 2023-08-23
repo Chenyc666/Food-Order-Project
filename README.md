@@ -21,6 +21,7 @@ This class showcases the creation and manipulation of a linked list that represe
 
 # CustomerOrder
 It has a constructor that takes in the customer's name, their ordered items, and the total cost, and initializes the member variables.
+It has three getter methods to retrieve the name, ordered items, and total cost.
 
 # Main.java
 

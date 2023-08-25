@@ -251,6 +251,7 @@ public class Menu {
         if( a == null){
             return b;
         }
+        
         if(b == null){
             return a;
         }

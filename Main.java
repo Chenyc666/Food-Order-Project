@@ -44,7 +44,6 @@ public class Main {
             Handler fileHandler = new FileHandler(filePath, true);
 
             logger.addHandler(fileHandler);
-
             logger.config("Logging File Location Configuration Done.");
             logger.info(filePath);
 
@@ -79,7 +78,8 @@ public class Main {
         menu.addItem(4,"Soup of the Day",new BigDecimal("4.00"));
         menu.addItem(5,"Fried Chicken Chop",new BigDecimal("7.00"));
         menu.addItem(6,"Mashed Potato",new BigDecimal("3.00"));
-
+        menu.addItem(7,"Tomatoes",new BigDecimal("6.00"));
+        
         //create customer list
         List<Customer> customerList=new ArrayList<Customer>();
 

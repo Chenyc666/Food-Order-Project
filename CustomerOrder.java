@@ -9,6 +9,7 @@ public class CustomerOrder {
     BigDecimal orderTotal;
     BigDecimal summingTotal;
 
+    // Constructor
     public CustomerOrder (String cust_name, LinkedList<Menu.Node> items, BigDecimal orderTotal){
             this.cust_name=cust_name;
             this.items=items;

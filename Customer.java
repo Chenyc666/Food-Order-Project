@@ -8,10 +8,12 @@ public class Customer {
         this.id=id;
     }
 
+    // getter 
     public int getId() {
         return id;
     }
 
+    // setter
     public void setId(int id) {
         this.id = id;
     }

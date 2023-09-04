@@ -90,7 +90,7 @@ public class Menu {
         //temp
         Node tempNode=head;
 
-        //empty
+        // empty case
         if(tempNode==null){
             System.out.println("Empty Menu");
 
@@ -269,6 +269,7 @@ public class Menu {
 
     }
 
+    // recursive call helper function
     private Node sortedMergeID(Node a, Node b){
 
         Node result=null;

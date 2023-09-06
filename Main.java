@@ -183,6 +183,7 @@ public class Main {
                 main_driver.custMakeOrder(customerList,menu,ordersQueue);
             }
 
+            // View the Menu section
             else if(op_selection == 5){
 
                 menu.head=menu.mergeSortID(menu.head);
